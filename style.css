@@ -1,0 +1,36 @@
+body {
+	background-color: #000000;
+}
+#efeito {
+	font-family:"trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #DCDCDC;
+	font-weight:bold;
+	text-align: center;
+}
+#efeito:hover{
+	color: #FF0000;
+	text-align: center;
+	margin-left:auto;
+	font-size: 22px;
+	text-transform: uppercase;
+}
+.centertop {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 30%;
+}
+.centertop:hover{
+	width: 40%;
+}
+.moca{
+	position: absolute;
+	width: 15%;
+	top:45%;
+	margin-left:43%
+}
+.moca:hover{
+	background-color: #006400;
+}
